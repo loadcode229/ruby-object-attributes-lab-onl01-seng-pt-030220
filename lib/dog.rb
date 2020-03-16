@@ -6,3 +6,4 @@ class Dog
     @this_dogs_name
   end
 end
+puts name
